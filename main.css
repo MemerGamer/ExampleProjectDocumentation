@@ -1,8 +1,19 @@
  
 /* start css.sty */
-.cmr-10x-x-109{}
-.cmr-17{font-size:154%;}
-.cmr-12{font-size:109%;}
+.phvr7t-x-x-120{ font-family: sans-serif;}
+.phvr7t-x-x-120{ font-family: sans-serif;}
+.phvb7t-x-x-248{font-size:206%;font-family: sans-serif; font-weight: bold;}
+.phvb7t-x-x-248{font-family: sans-serif; font-weight: bold;}
+.phvb7t-x-x-248{font-family: sans-serif; font-weight: bold;}
+.phvb7t-x-x-144{font-size:120%;font-family: sans-serif; font-weight: bold;}
+.phvb7t-x-x-144{font-family: sans-serif; font-weight: bold;}
+.phvb7t-x-x-144{font-family: sans-serif; font-weight: bold;}
+.phvr7t-x-x-172{font-size:143%; font-family: sans-serif;}
+.phvr7t-x-x-172{ font-family: sans-serif;}
+.cmtt-12{font-family: monospace,monospace;}
+.phvb7t-x-x-120{font-family: sans-serif; font-weight: bold;}
+.phvb7t-x-x-120{font-family: sans-serif; font-weight: bold;}
+.phvb7t-x-x-120{font-family: sans-serif; font-weight: bold;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
@@ -96,6 +107,7 @@ table.pmatrix {width:100%;}
 span.bar-css {text-decoration:overline;}
 img.cdots{vertical-align:middle;}
 .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {line-height: 200%; font-weight:bold;}
 .index-item, .index-subitem, .index-subsubitem {display:block}
 div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
 div.caption span.id{font-weight: bold; white-space: nowrap; }
@@ -121,5 +133,39 @@ figcaption.caption span.id{font-weight: bold; white-space: nowrap; }
 p + figcaption, img + figcaption{margin-top: 1em;}
 .abstract{margin:1em;}
 .rotatebox{display: inline-block;}
+.equation td{text-align:center; }
+.equation-star td{text-align:center; }
+table.equation-star { width:100%; }
+table.equation { width:100%; }
+table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-left:5%; white-space: nowrap;}
+table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto; margin-right:auto; white-space: nowrap;}
+td.align-label { width:5%; text-align:center; }
+td.align-odd { text-align:right; padding-right:0.3em;}
+td.align-even { text-align:left; padding-right:0.6em;}
+table.multline, table.multline-star {width:100%;}
+td.gather {text-align:center; }
+table.gather {width:100%;}
+div.gather-star {text-align:center;}
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
+td p:first-child{ margin-top:0em; }
+td p:last-child{ margin-bottom:0em; }
+div.td00{ margin-left:0pt; margin-right:0pt; }
+div.td01{ margin-left:0pt; margin-right:5pt; }
+div.td10{ margin-left:5pt; margin-right:0pt; }
+div.td11{ margin-left:5pt; margin-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+td.td00{ padding-left:0pt; padding-right:0pt; }
+td.td01{ padding-left:0pt; padding-right:5pt; }
+td.td10{ padding-left:5pt; padding-right:0pt; }
+td.td11{ padding-left:5pt; padding-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+.hline hr, .cline hr{ height : 0px; margin:0px; }
+.hline td, .cline td{ padding: 0; }
+.hline hr, .cline hr{border:none;border-top:1px solid black;}
+.hline {border-top: 1px solid black;}
+div.array {text-align:center;}
+div.verbatiminput {font-family: monospace,monospace; white-space: nowrap; }
 /* end css.sty */
 

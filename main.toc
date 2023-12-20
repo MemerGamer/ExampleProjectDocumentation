@@ -1,2 +1,67 @@
-\contentsline {section}{\numberline {1}Section 1}{3}{}%
-\contentsline {section}{\numberline {2}Section 2}{4}{}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Purpose of the project}{3}{section.2}%
+\contentsline {section}{\numberline {3}Requirement specification}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}User requirements. Use case diagram}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Design of the website}{4}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Authentification}{4}{subsubsection.3.2.1}%
+\contentsline {paragraph}{Exception}{4}{section*.3}%
+\contentsline {subsubsection}{\numberline {3.2.2}Accessing content}{4}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Profile settings}{5}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Posting to the Forum}{5}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Specifying by roles}{5}{subsubsection.3.2.5}%
+\contentsline {paragraph}{Teacher}{5}{section*.4}%
+\contentsline {paragraph}{Student}{5}{section*.5}%
+\contentsline {paragraph}{Admin}{5}{section*.6}%
+\contentsline {subsection}{\numberline {3.3}System requirements}{6}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Functional}{6}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Non-Functional Requirements}{7}{subsubsection.3.3.2}%
+\contentsline {paragraph}{Minimum System Requirements}{7}{section*.8}%
+\contentsline {paragraph}{Platform Requirements}{8}{section*.9}%
+\contentsline {paragraph}{Browser Compatibility}{8}{section*.10}%
+\contentsline {paragraph}{Authentication Process}{8}{section*.11}%
+\contentsline {paragraph}{Product Properties}{8}{section*.12}%
+\contentsline {paragraph}{Developer and Tech Expert Specifications}{8}{section*.13}%
+\contentsline {paragraph}{Testing Procedures}{9}{section*.14}%
+\contentsline {paragraph}{Optional but Desirable Features}{9}{section*.15}%
+\contentsline {section}{\numberline {4}Planning}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Brainstorming}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Architecture}{11}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Database}{11}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Backend}{12}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Frontend}{12}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Documentation Generation}{12}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Dockerizing the architecture}{13}{subsubsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.3}Conventions}{13}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Variable Naming Conventions}{13}{subsubsection.4.3.1}%
+\contentsline {paragraph}{Backend (Django Framework)}{13}{section*.19}%
+\contentsline {paragraph}{Frontend (React TypeScript)}{13}{section*.20}%
+\contentsline {subsubsection}{\numberline {4.3.2}Sprint and Task Management}{14}{subsubsection.4.3.2}%
+\contentsline {paragraph}{Branch Naming Convention}{14}{section*.21}%
+\contentsline {paragraph}{Commits}{14}{section*.22}%
+\contentsline {paragraph}{Pull Requests}{15}{section*.23}%
+\contentsline {subsection}{\numberline {4.4}System Overview: UML, Backend Modules, and Personas}{15}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Wireframe and Design (UX \& UI)}{17}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Wireframe}{17}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Design}{18}{subsubsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.6}Database plan}{20}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Lean Metodology and Sprint Managment with Trello}{20}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Task Managment with Github issues}{22}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Version Control with Github}{24}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}Git and GitHub Integration}{24}{subsubsection.4.9.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}Feature Branch Workflow}{25}{subsubsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.3}Seamless Collaboration}{25}{subsubsection.4.9.3}%
+\contentsline {subsubsection}{\numberline {4.9.4}Committing to Best Practices}{25}{subsubsection.4.9.4}%
+\contentsline {section}{\numberline {5}Development Tools}{25}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Programming Languages and Frameworks}{25}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Version Control}{26}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Project Management Tools}{26}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Collaboration and Communication Tools}{26}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Database Management}{26}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}UX/UI Design Tools}{26}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Code Editors/IDEs}{27}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Testing and Quality Assurance Tools}{27}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Other Tools}{28}{subsection.5.9}%
+\contentsline {section}{\numberline {6}The application in action}{28}{section.6}%
+\contentsline {subsection}{\numberline {6.1}UI - realization}{28}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Summary}{30}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Future improvements}{30}{subsection.7.1}%
