@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.1.5)  5 JAN 2024 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.1.6)  6 JAN 2024 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1214,7 +1214,7 @@ l. 635 --- needs --- assets/KnowledgeBridgeLighthouse.png ---
 Here is how much of TeX's memory you used:
  20462 strings out of 478288
  365614 string characters out of 5849316
- 737058 words of memory out of 5000000
+ 737060 words of memory out of 5000000
  38149 multiletter control sequences out of 15000+600000
  474607 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
