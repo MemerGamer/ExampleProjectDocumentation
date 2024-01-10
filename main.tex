@@ -35,32 +35,32 @@
 \newpage
 \begin{spacing}{1.5}
     \section{Introduction}\label{sec:intro}
-    Getting the necessary knowledge for the baccalaureate exam is one of the
-    hardest parts of high school. If your teacher could not provide exam models,
-    archived tests, or examples, getting ready for it seems exceptionally
-    challenging. \\ \indent These days, with the help of the internet, acquiring
-    this much knowledge is a little bit easier. However, obtaining the necessary
-    resources, even today, is an adventure where you will need to navigate some
-    pretty old government sites that are nearly impossible to use in order to get
-    the things that you want. Wouldn't it be great to have a platform where you can
-    easily learn in a friendly environment, and even teachers can help you achieve
-    your goal? Wouldn't it be nice to talk with other students about the struggles
-    that you encounter while learning? This is what this project is meant to solve.
+
+    Picture this section as the captivating prologue to your project documentation
+    --- a blend of enticing details and a glimpse into the narrative. Here, we
+    share the exciting backstory of who stands to benefit from this project, why
+    it's a game-changer, and sprinkle in some marketing flair to pique your
+    interest. It's the invitation before the main event, urging you to delve deeper
+    into the documentation and discover the potential this project holds for you
+    and others.
 
     \section{Purpose of the project}\label{sec:purpose}
 
-    Example Project is the place where any Romanian high school student can obtain
-    the necessary knowledge for preparing the baccalaureate exam. All the useful
-    information collected into one place, exam models, archived tests, examples,
-    materials, you name it, can be found on this site. Besides collecting this data
-    to one place, it is important to connect the students from all over Romania and
-    make it possible for them to learn not only from each other, but also from
-    other teachers. \\ \indent Creating a safe study place where every information
-    is correct and appropriate was never an easy thing but it is not impossible.
-    That is why we set a goal to create a site that does all that and more.
+    Now, as we shift gears to the "Purpose of the Project" section, the focus
+    sharpens. Here, we cut to the chase, answering the crucial "why" behind the
+    project. Who is it designed for, and what concrete issues or challenges does it
+    aim to address? This is where we lay bare the foundations, outlining the clear
+    objectives and the tangible benefits that make this project a practical
+    solution for specific needs. It's less about marketing allure and more about
+    the nuts and bolts of why this project matters in a real-world context.
 
     \section{Requirement specification}\label{sec:req_spec}
     \subsection{User requirements. Use case diagram}\label{subsec: user_req}
+    Here you can describe the user requirements of your project. You can use a use
+    case diagram to describe the user requirements. You can use the
+    \href{https://www.draw.io/}{draw.io} website to create the diagram.
+
+    The example use case diagram is shown in \autoref{fig:use_case_example}.
     \subsection{Design of the website}
     To enhance user-friendliness, the website ought to adopt a straightforward and
     easily comprehensible design, incorporating familiar icons or utilizing icons
@@ -89,8 +89,15 @@
     Users should be able to write posts to the forum and comments to the posts, and
     manage their contributions by deleting their own posts and comments.
     \subsubsection{Specifying by roles}
-    \paragraph{Teacher} \mbox{} \\ \indent
-    A Teacher user should be able, besides the general user functions, to modify the content of the materials and add new materials.
+    If you have multiple roles here you list all the different actions each user
+    can do. If there's only one role then you specify all the actions that they can
+    do.
+
+    Notes: Adding a use case diagram (\autoref{fig:use_case_example}) here can make
+    it easier to understand the roles. \\ \textbf{Example roles:}
+    \paragraph{Teacher} \mbox{} \\ \indent A Teacher user should be able, besides the
+    general user functions, to modify the content of the materials and add new
+    materials.
     \paragraph{Student} \mbox{} \\ \indent A student user currently is the same as a
     general user.
     \paragraph{Admin} \mbox{} \\ \indent The Admin user is responsible for the
@@ -103,6 +110,7 @@
         \centering
         \includegraphics[width=15cm]{assets/use-case-example.png}
         \caption{Example use case diagram}
+        \label{fig:use_case_example}
     \end{figure}
     \FloatBarrier
 
@@ -220,7 +228,7 @@
     \FloatBarrier
 
     When we began planning the application's architecture, we considered it's
-    future and the requirements it needed to fulfill.
+    future and the requirements it needed to fulfill. (\autoref{fig:architecture})
 
     \subsubsection{Database}
     As mentioned earlier in this subsection, our focus was on anticipating the
@@ -294,10 +302,15 @@
 
     \paragraph{Backend (Django Framework)}
     For backend development, we adhere to Django Framework's naming conventions for
-    variables.
-
-    \paragraph{Frontend (React TypeScript)}
-    Frontend development follows React TypeScript's variable naming conventions.
+    variables.\footnote{
+        \href{https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/}{Official
+            Django Documentation}}\footnote{
+        \href{https://learndjango.com/tutorials/django-best-practices-projects-vs-apps}{LearnDjango}
+    }
+    \paragraph{Frontend (React TypeScript)} Frontend development follows React
+    TypeScript's variable naming conventions.\footnote{
+        \href{https://levelup.gitconnected.com/managing-types-in-react-typescript-the-right-way-fa1ecc50a2bf}{Medium}
+    }
 
     \textbf{Some examples:}
     \begin{itemize}
@@ -310,8 +323,9 @@
 
     \subsubsection{Sprint and Task Management}\label{subseq:conventions-sprint-and-task-managment}
 
-    Later, in subsequent sections, we will explore our use of Trello for sprint
-    management (\autoref{subseq:lean-and-trello}), GitHub (Git) for version control
+    Later, in subsequent sections, we will explore our use of
+    \href{https://trello.com/}{Trello} for sprint management
+    (\autoref{subseq:lean-and-trello}), GitHub (Git) for version control
     (\autoref{subseq:version-control}), and the management of smaller tasks through
     GitHub issues (\autoref{subseq:task-managment-github-issue}).
 
@@ -345,11 +359,32 @@
     When submitting changes via pull request, reference the relevant GitHub issue. Ensure that the pull request includes a clear and concise description of the changes.
 
     \subsection{System Overview: UML, Backend Modules, and Personas}
+    Add diagrams about the overview of your project, like UML, Backend Modules,
+    Class and Persona diagrams. \\ \textbf{Do's:}
+    \begin{itemize}
+        \item clear and simplistic images
+        \item digitally created images are better, but you can also use hand drawn diagrams
+        \item show the main content
+        \item easy to read diagrams
+        \item instead of empty spaces use bigger fonts or structure your diagram better
+    \end{itemize}
+    \textbf{Don'ts:}
+    \begin{itemize}
+        \item images with black background (\autoref{fig:backend-uml})
+        \item too big images (\autoref{fig:backend-modules})
+        \item blurry or pixeled images --- even you can't see clearly what it really is about
+        \item if you have big images show them at the appendix part, although that's not
+              really part of the documentation, so include necessary parts of the big image
+              here
+        \item do not add everything in one image, if you have multiple parts that you want to
+              include separate them by context, style or importance
+    \end{itemize}
 
     \begin{figure}[H]
         \centering
         \includegraphics[width=1\linewidth]{assets/backend-uml-example.png}
         \caption{Example UML diagram of the backend}
+        \label{fig:backend-uml}
     \end{figure}
     \FloatBarrier
 
@@ -357,6 +392,7 @@
         \centering
         \includegraphics[width=1\linewidth]{assets/KnowledgeBridgePackages.png}
         \caption{Diagram of the backend modules}
+        \label{fig:backend-modules}
     \end{figure}
     \FloatBarrier
 
@@ -364,7 +400,10 @@
         \centering
         \includegraphics[width=1\linewidth]{assets/persona-diagram-example.png}
         \caption{Example Persona diagram}
+        \label{fig:persona-diagram}
     \end{figure}
+
+    You can see the example persona diagram in \autoref{fig:persona-diagram}.
     \FloatBarrier
 
     \newpage
@@ -693,6 +732,11 @@
     either.
 
     \section{Summary}
+
+    \textbf{Note:} documentation is not only for the readers it's also for you, so when time
+    passes and you don't know something you just have to hit this up and see the
+    details.
+
     \subsection{Future improvements}
     Although we had high hopes when starting this project things do not always go
     as planned that is why we have much more elements for this part than we

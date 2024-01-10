@@ -1,3 +1,5 @@
+htfcss: phvr7t  font-family: sans-serif;
+htfcss: phvr7t  font-family: sans-serif;
 htfcss: phvb7t font-family: sans-serif; font-weight: bold;
 htfcss: cmtt font-family: monospace,monospace;
 htfcss: phvr7t  font-family: sans-serif;
@@ -7,6 +9,9 @@ htfcss: phvr7t  font-family: sans-serif;
 File: main.html
 File: main.css
 File: main.tmp
+File: main2.html
+File: main3.html
+File: main4.html
 Css: p{margin-top:0;margin-bottom:0}
 Css: p.indent{text-indent:0;}
 Css: p + p{margin-top:1em;}
@@ -195,3 +200,5 @@ Font("phvb7t","","10","144")
 Font("phvr7t","","10","172")
 Font("cmtt","12","12","100")
 Font("phvb7t","","10","120")
+Font("phvr7t","","10","109")
+Font("phvr7t","","10","100")
