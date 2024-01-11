@@ -46,44 +46,50 @@
 \doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-410004.3.2}{QQ2-1-45}{Commits}}{28}\relax 
 \doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-420004.3.2}{QQ2-1-46}{Pull Requests}}{30}\relax 
 \doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{1}{x1-430004.4}{QQ2-1-47}{System Overview: UML, Backend Modules, and Personas}}{30}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-43002}{}{\numberline {5}{\ignorespaces Example UML diagram of the backend\relax }}}{33}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-43004}{}{\numberline {6}{\ignorespaces Diagram of the backend modules\relax }}}{36}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-43006}{}{\numberline {7}{\ignorespaces Example Persona diagram\relax }}}{39}\relax 
-\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{1}{x1-440004.5}{QQ2-1-51}{Wireframe and Design (UX \& UI)}}{41}\relax 
-\doTocEntry\tocsubsubsection{4.5.1}{\csname a:TocLink\endcsname{1}{x1-450004.5.1}{QQ2-1-52}{Wireframe}}{41}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-45002}{}{\numberline {8}{\ignorespaces Example Wireframe overview\relax }}}{43}\relax 
-\doTocEntry\tocsubsubsection{4.5.2}{\csname a:TocLink\endcsname{1}{x1-460004.5.2}{QQ2-1-54}{Design}}{45}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46002}{}{\numberline {9}{\ignorespaces Example mockup overview\relax }}}{47}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46004}{}{\numberline {10}{\ignorespaces Example Design overview\relax }}}{50}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46006}{}{\numberline {11}{\ignorespaces Example Mobile Design overview\relax }}}{54}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46008}{}{\numberline {12}{\ignorespaces Another Example Design overview\relax }}}{57}\relax 
-\doTocEntry\tocsubsection{4.6}{\csname a:TocLink\endcsname{1}{x1-470004.6}{QQ2-1-59}{Database plan}}{59}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-47002}{}{\numberline {13}{\ignorespaces Example database diagram\relax }}}{61}\relax 
-\doTocEntry\tocsubsection{4.7}{\csname a:TocLink\endcsname{1}{x1-480004.7}{QQ2-1-61}{Lean Metodology and Sprint Managment with Trello}}{62}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-48002}{}{\numberline {14}{\ignorespaces Example Trello board\relax }}}{64}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-48004}{}{\numberline {15}{\ignorespaces Example Project Timeline\relax }}}{67}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-48006}{}{\numberline {16}{\ignorespaces Example Trello task\relax }}}{71}\relax 
-\doTocEntry\tocsubsection{4.8}{\csname a:TocLink\endcsname{1}{x1-490004.8}{QQ2-1-65}{Task Managment with Github issues}}{72}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-49002}{}{\numberline {17}{\ignorespaces Example of Github Issues Overview\relax }}}{74}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-49004}{}{\numberline {18}{\ignorespaces Example of Github Issue\relax }}}{77}\relax 
-\doTocEntry\tocsubsection{4.9}{\csname a:TocLink\endcsname{1}{x1-500004.9}{QQ2-1-68}{Version Control with Github}}{78}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-50002}{}{\numberline {19}{\ignorespaces Example of Git Graph, Log, Extensions and SourceTree\relax }}}{80}\relax 
-\doTocEntry\tocsubsubsection{4.9.1}{\csname a:TocLink\endcsname{1}{x1-510004.9.1}{QQ2-1-70}{Git and GitHub Integration}}{81}\relax 
-\doTocEntry\tocsubsubsection{4.9.2}{\csname a:TocLink\endcsname{1}{x1-520004.9.2}{QQ2-1-71}{Feature Branch Workflow}}{81}\relax 
-\doTocEntry\tocsubsubsection{4.9.3}{\csname a:TocLink\endcsname{1}{x1-530004.9.3}{QQ2-1-72}{Seamless Collaboration}}{81}\relax 
-\doTocEntry\tocsubsubsection{4.9.4}{\csname a:TocLink\endcsname{1}{x1-540004.9.4}{QQ2-1-73}{Committing to Best Practices}}{82}\relax 
-\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-550005}{QQ2-1-74}{Development Tools}}{82}\relax 
-\doTocEntry\tocsubsection{5.1}{\csname a:TocLink\endcsname{1}{x1-560005.1}{QQ2-1-75}{Programming Languages and Frameworks}}{82}\relax 
-\doTocEntry\tocsubsection{5.2}{\csname a:TocLink\endcsname{1}{x1-570005.2}{QQ2-1-76}{Version Control}}{83}\relax 
-\doTocEntry\tocsubsection{5.3}{\csname a:TocLink\endcsname{1}{x1-580005.3}{QQ2-1-77}{Project Management Tools}}{83}\relax 
-\doTocEntry\tocsubsection{5.4}{\csname a:TocLink\endcsname{1}{x1-590005.4}{QQ2-1-78}{Collaboration and Communication Tools}}{83}\relax 
-\doTocEntry\tocsubsection{5.5}{\csname a:TocLink\endcsname{1}{x1-600005.5}{QQ2-1-79}{Database Management}}{84}\relax 
-\doTocEntry\tocsubsection{5.6}{\csname a:TocLink\endcsname{1}{x1-610005.6}{QQ2-1-80}{UX/UI Design Tools}}{84}\relax 
-\doTocEntry\tocsubsection{5.7}{\csname a:TocLink\endcsname{1}{x1-620005.7}{QQ2-1-81}{Code Editors/IDEs}}{84}\relax 
-\doTocEntry\tocsubsection{5.8}{\csname a:TocLink\endcsname{1}{x1-630005.8}{QQ2-1-82}{Testing and Quality Assurance Tools}}{84}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-63002}{}{\numberline {20}{\ignorespaces Lighthouse\relax }}}{87}\relax 
-\doTocEntry\tocsubsection{5.9}{\csname a:TocLink\endcsname{1}{x1-640005.9}{QQ2-1-84}{Other Tools}}{88}\relax 
-\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-650006}{QQ2-1-85}{The application in action}}{88}\relax 
-\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{1}{x1-660006.1}{QQ2-1-86}{UI - realization}}{88}\relax 
-\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-670007}{QQ2-1-87}{Summary}}{90}\relax 
-\doTocEntry\tocsubsection{7.1}{\csname a:TocLink\endcsname{1}{x1-680007.1}{QQ2-1-88}{Future improvements}}{90}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-43002}{}{\numberline {5}{\ignorespaces Class diagram\relax }}}{33}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-43004}{}{\numberline {6}{\ignorespaces Example Persona diagram\relax }}}{36}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-43006}{}{\numberline {7}{\ignorespaces Example UML diagram of the backend\relax }}}{39}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-43008}{}{\numberline {8}{\ignorespaces Diagram of the backend modules\relax }}}{42}\relax 
+\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{1}{x1-440004.5}{QQ2-1-52}{Wireframe and Design (UX \& UI)}}{44}\relax 
+\doTocEntry\tocsubsubsection{4.5.1}{\csname a:TocLink\endcsname{1}{x1-450004.5.1}{QQ2-1-53}{Wireframe}}{44}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-45002}{}{\numberline {9}{\ignorespaces Example Wireframe overview\relax }}}{46}\relax 
+\doTocEntry\tocsubsubsection{4.5.2}{\csname a:TocLink\endcsname{1}{x1-460004.5.2}{QQ2-1-55}{Design}}{48}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46002}{}{\numberline {10}{\ignorespaces Example mockup overview\relax }}}{50}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46004}{}{\numberline {11}{\ignorespaces Example Design overview\relax }}}{53}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46006}{}{\numberline {12}{\ignorespaces Example Mobile Design overview\relax }}}{57}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-46008}{}{\numberline {13}{\ignorespaces Another Example Design overview\relax }}}{60}\relax 
+\doTocEntry\tocsubsection{4.6}{\csname a:TocLink\endcsname{1}{x1-470004.6}{QQ2-1-60}{Database plan}}{62}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-47002}{}{\numberline {14}{\ignorespaces Example database diagram\relax }}}{64}\relax 
+\doTocEntry\tocsubsection{4.7}{\csname a:TocLink\endcsname{1}{x1-480004.7}{QQ2-1-62}{Lean Metodology and Sprint Managment with Trello}}{65}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-48002}{}{\numberline {15}{\ignorespaces Example Trello board\relax }}}{67}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-48004}{}{\numberline {16}{\ignorespaces Example Project Timeline\relax }}}{70}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-48006}{}{\numberline {17}{\ignorespaces Example Trello task\relax }}}{74}\relax 
+\doTocEntry\tocsubsection{4.8}{\csname a:TocLink\endcsname{1}{x1-490004.8}{QQ2-1-66}{Task Managment with Github issues}}{75}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-49002}{}{\numberline {18}{\ignorespaces Example of Github Issues Overview\relax }}}{77}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-49004}{}{\numberline {19}{\ignorespaces Example of Github Issue\relax }}}{80}\relax 
+\doTocEntry\tocsubsection{4.9}{\csname a:TocLink\endcsname{1}{x1-500004.9}{QQ2-1-69}{Version Control with Github}}{81}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-50002}{}{\numberline {20}{\ignorespaces Example of Git Graph, Log, Extensions and SourceTree\relax }}}{83}\relax 
+\doTocEntry\tocsubsubsection{4.9.1}{\csname a:TocLink\endcsname{1}{x1-510004.9.1}{QQ2-1-71}{Git and GitHub Integration}}{84}\relax 
+\doTocEntry\tocsubsubsection{4.9.2}{\csname a:TocLink\endcsname{1}{x1-520004.9.2}{QQ2-1-72}{Feature Branch Workflow}}{84}\relax 
+\doTocEntry\tocsubsubsection{4.9.3}{\csname a:TocLink\endcsname{1}{x1-530004.9.3}{QQ2-1-73}{Seamless Collaboration}}{84}\relax 
+\doTocEntry\tocsubsubsection{4.9.4}{\csname a:TocLink\endcsname{1}{x1-540004.9.4}{QQ2-1-74}{Committing to Best Practices}}{85}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-550005}{QQ2-1-75}{Development Tools}}{85}\relax 
+\doTocEntry\tocsubsection{5.1}{\csname a:TocLink\endcsname{1}{x1-560005.1}{QQ2-1-76}{Programming Languages and Frameworks}}{85}\relax 
+\doTocEntry\tocsubsection{5.2}{\csname a:TocLink\endcsname{1}{x1-570005.2}{QQ2-1-77}{Version Control}}{86}\relax 
+\doTocEntry\tocsubsection{5.3}{\csname a:TocLink\endcsname{1}{x1-580005.3}{QQ2-1-78}{Project Management Tools}}{86}\relax 
+\doTocEntry\tocsubsection{5.4}{\csname a:TocLink\endcsname{1}{x1-590005.4}{QQ2-1-79}{Collaboration and Communication Tools}}{86}\relax 
+\doTocEntry\tocsubsection{5.5}{\csname a:TocLink\endcsname{1}{x1-600005.5}{QQ2-1-80}{Database Management}}{87}\relax 
+\doTocEntry\tocsubsection{5.6}{\csname a:TocLink\endcsname{1}{x1-610005.6}{QQ2-1-81}{UX/UI Design Tools}}{87}\relax 
+\doTocEntry\tocsubsection{5.7}{\csname a:TocLink\endcsname{1}{x1-620005.7}{QQ2-1-82}{Code Editors/IDEs}}{87}\relax 
+\doTocEntry\tocsubsection{5.8}{\csname a:TocLink\endcsname{1}{x1-630005.8}{QQ2-1-83}{Testing and Quality Assurance Tools}}{87}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-63002}{}{\numberline {21}{\ignorespaces Lighthouse\relax }}}{90}\relax 
+\doTocEntry\tocsubsection{5.9}{\csname a:TocLink\endcsname{1}{x1-640005.9}{QQ2-1-85}{Other Tools}}{91}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-650006}{QQ2-1-86}{The application in action}}{91}\relax 
+\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{1}{x1-660006.1}{QQ2-1-87}{UI - realization}}{91}\relax 
+\doTocEntry\tocsubsection{6.2}{\csname a:TocLink\endcsname{1}{x1-670006.2}{QQ2-1-88}{Code - realization}}{93}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-67002}{}{\numberline {22}{\ignorespaces carbon\relax }}}{95}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-680007}{QQ2-1-90}{Summary}}{96}\relax 
+\doTocEntry\tocsubsection{7.1}{\csname a:TocLink\endcsname{1}{x1-690007.1}{QQ2-1-91}{Future improvements}}{96}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{1}{x1-700008}{QQ2-1-92}{Appendix}}{98}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-70002}{}{\numberline {23}{\ignorespaces Example UML diagram of the backend\relax }}}{100}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-70004}{}{\numberline {24}{\ignorespaces Diagram of the backend modules\relax }}}{103}\relax 

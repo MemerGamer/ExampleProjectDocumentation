@@ -40,28 +40,30 @@
 \contentsline {paragraph}{Commits}{14}{section*.22}%
 \contentsline {paragraph}{Pull Requests}{15}{section*.23}%
 \contentsline {subsection}{\numberline {4.4}System Overview: UML, Backend Modules, and Personas}{15}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Wireframe and Design (UX \& UI)}{18}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Wireframe}{18}{subsubsection.4.5.1}%
-\contentsline {subsubsection}{\numberline {4.5.2}Design}{19}{subsubsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.6}Database plan}{21}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Lean Metodology and Sprint Managment with Trello}{21}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Task Managment with Github issues}{23}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}Version Control with Github}{25}{subsection.4.9}%
-\contentsline {subsubsection}{\numberline {4.9.1}Git and GitHub Integration}{25}{subsubsection.4.9.1}%
-\contentsline {subsubsection}{\numberline {4.9.2}Feature Branch Workflow}{26}{subsubsection.4.9.2}%
-\contentsline {subsubsection}{\numberline {4.9.3}Seamless Collaboration}{26}{subsubsection.4.9.3}%
-\contentsline {subsubsection}{\numberline {4.9.4}Committing to Best Practices}{26}{subsubsection.4.9.4}%
-\contentsline {section}{\numberline {5}Development Tools}{26}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Programming Languages and Frameworks}{26}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Version Control}{27}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Project Management Tools}{27}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Collaboration and Communication Tools}{27}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Database Management}{27}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}UX/UI Design Tools}{27}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}Code Editors/IDEs}{28}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}Testing and Quality Assurance Tools}{28}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}Other Tools}{29}{subsection.5.9}%
-\contentsline {section}{\numberline {6}The application in action}{29}{section.6}%
-\contentsline {subsection}{\numberline {6.1}UI - realization}{29}{subsection.6.1}%
-\contentsline {section}{\numberline {7}Summary}{31}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Future improvements}{31}{subsection.7.1}%
+\contentsline {subsection}{\numberline {4.5}Wireframe and Design (UX \& UI)}{19}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Wireframe}{19}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Design}{20}{subsubsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.6}Database plan}{22}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Lean Metodology and Sprint Managment with Trello}{22}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Task Managment with Github issues}{24}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Version Control with Github}{26}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}Git and GitHub Integration}{27}{subsubsection.4.9.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}Feature Branch Workflow}{28}{subsubsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.3}Seamless Collaboration}{28}{subsubsection.4.9.3}%
+\contentsline {subsubsection}{\numberline {4.9.4}Committing to Best Practices}{28}{subsubsection.4.9.4}%
+\contentsline {section}{\numberline {5}Development Tools}{28}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Programming Languages and Frameworks}{28}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Version Control}{29}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Project Management Tools}{29}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Collaboration and Communication Tools}{29}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Database Management}{29}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}UX/UI Design Tools}{30}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Code Editors/IDEs}{30}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Testing and Quality Assurance Tools}{30}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Other Tools}{31}{subsection.5.9}%
+\contentsline {section}{\numberline {6}The application in action}{31}{section.6}%
+\contentsline {subsection}{\numberline {6.1}UI - realization}{31}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Code - realization}{33}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Summary}{33}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Future improvements}{34}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Appendix}{35}{section.8}%

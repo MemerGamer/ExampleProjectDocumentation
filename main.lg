@@ -177,9 +177,10 @@ File: assets/use-case-example.png
 File: assets/brainstorming-example.png
 File: assets/another-brainstorming-example.png
 File: assets/architecture-example.png
+File: assets/class_diagram.png
+File: assets/persona-diagram-example.png
 File: assets/backend-uml-example.png
 File: assets/KnowledgeBridgePackages.png
-File: assets/persona-diagram-example.png
 File: assets/wireframe-example.png
 File: assets/mockup-example.png
 File: assets/design-overview-example.png
@@ -193,6 +194,9 @@ File: assets/github-issue-overview-example.png
 File: assets/github-issue-example.png
 File: assets/git-graph-example.png
 File: assets/KnowledgeBridgeLighthouse.png
+File: assets/carbon.png
+File: assets/backend-uml-example.png
+File: assets/KnowledgeBridgePackages.png
 --- characters ---
 Font("phvr7t","","10","120")
 Font("phvb7t","","10","248")

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.1.10)  10 JAN 2024 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.1.11)  11 JAN 2024 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -885,7 +885,14 @@ LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
 0.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `fig:backend-uml' multiply defined.
+
+
+LaTeX Warning: Label `fig:backend-modules' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -1031,11 +1038,10 @@ l. 224 --- needs --- assets/architecture-example.png ---
 ] [28] [29] [30] [31] [32
 
 ]
-l.385 --- TeX4ht warning --- File `"assets/backend-uml-example.xbb"' not found 
----
-l.385 --- TeX4ht warning --- Cannot determine size of graphic in "assets/backen
-d-uml-example.xbb" (no BoundingBox) ---
-l. 385 --- needs --- assets/backend-uml-example.png ---
+l.390 --- TeX4ht warning --- File `"assets/class_diagram.xbb"' not found ---
+l.390 --- TeX4ht warning --- Cannot determine size of graphic in "assets/class_
+diagram.xbb" (no BoundingBox) ---
+l. 390 --- needs --- assets/class_diagram.png ---
 [33
 
 ] [34
@@ -1043,11 +1049,11 @@ l. 385 --- needs --- assets/backend-uml-example.png ---
 ] [35
 
 ]
-l.393 --- TeX4ht warning --- File `"assets/KnowledgeBridgePackages.xbb"' not fo
+l.398 --- TeX4ht warning --- File `"assets/persona-diagram-example.xbb"' not fo
 und ---
-l.393 --- TeX4ht warning --- Cannot determine size of graphic in "assets/Knowle
-dgeBridgePackages.xbb" (no BoundingBox) ---
-l. 393 --- needs --- assets/KnowledgeBridgePackages.png ---
+l.398 --- TeX4ht warning --- Cannot determine size of graphic in "assets/person
+a-diagram-example.xbb" (no BoundingBox) ---
+l. 398 --- needs --- assets/persona-diagram-example.png ---
 [36
 
 ] [37
@@ -1055,94 +1061,94 @@ l. 393 --- needs --- assets/KnowledgeBridgePackages.png ---
 ] [38
 
 ]
-l.401 --- TeX4ht warning --- File `"assets/persona-diagram-example.xbb"' not fo
-und ---
-l.401 --- TeX4ht warning --- Cannot determine size of graphic in "assets/person
-a-diagram-example.xbb" (no BoundingBox) ---
-l. 401 --- needs --- assets/persona-diagram-example.png ---
+l.406 --- TeX4ht warning --- File `"assets/backend-uml-example.xbb"' not found 
+---
+l.406 --- TeX4ht warning --- Cannot determine size of graphic in "assets/backen
+d-uml-example.xbb" (no BoundingBox) ---
+l. 406 --- needs --- assets/backend-uml-example.png ---
 [39
 
 ] [40
 
-] [41] [42
+] [41
 
 ]
-l.414 --- TeX4ht warning --- File `"assets/wireframe-example.xbb"' not found --
--
-l.414 --- TeX4ht warning --- Cannot determine size of graphic in "assets/wirefr
-ame-example.xbb" (no BoundingBox) ---
-l. 414 --- needs --- assets/wireframe-example.png ---
-[43
-
-] [44
-
-] [45] [46
-
-]
-l.426 --- TeX4ht warning --- File `"assets/mockup-example.xbb"' not found ---
-l.426 --- TeX4ht warning --- Cannot determine size of graphic in "assets/mockup
--example.xbb" (no BoundingBox) ---
-l. 426 --- needs --- assets/mockup-example.png ---
-[47
-
-] [48
-
-] [49
-
-]
-l.433 --- TeX4ht warning --- File `"assets/design-overview-example.xbb"' not fo
+l.414 --- TeX4ht warning --- File `"assets/KnowledgeBridgePackages.xbb"' not fo
 und ---
-l.433 --- TeX4ht warning --- Cannot determine size of graphic in "assets/design
--overview-example.xbb" (no BoundingBox) ---
-l. 433 --- needs --- assets/design-overview-example.png ---
+l.414 --- TeX4ht warning --- Cannot determine size of graphic in "assets/Knowle
+dgeBridgePackages.xbb" (no BoundingBox) ---
+l. 414 --- needs --- assets/KnowledgeBridgePackages.png ---
+[42
+
+] [43
+
+] [44] [45
+
+]
+l.425 --- TeX4ht warning --- File `"assets/wireframe-example.xbb"' not found --
+-
+l.425 --- TeX4ht warning --- Cannot determine size of graphic in "assets/wirefr
+ame-example.xbb" (no BoundingBox) ---
+l. 425 --- needs --- assets/wireframe-example.png ---
+[46
+
+] [47
+
+] [48] [49
+
+]
+l.437 --- TeX4ht warning --- File `"assets/mockup-example.xbb"' not found ---
+l.437 --- TeX4ht warning --- Cannot determine size of graphic in "assets/mockup
+-example.xbb" (no BoundingBox) ---
+l. 437 --- needs --- assets/mockup-example.png ---
 [50
 
 ] [51
 
-] [52] [53
+] [52
 
 ]
-l.443 --- TeX4ht warning --- File `"assets/mobile-design-example.xbb"' not foun
+l.444 --- TeX4ht warning --- File `"assets/design-overview-example.xbb"' not fo
+und ---
+l.444 --- TeX4ht warning --- Cannot determine size of graphic in "assets/design
+-overview-example.xbb" (no BoundingBox) ---
+l. 444 --- needs --- assets/design-overview-example.png ---
+[53
+
+] [54
+
+] [55] [56
+
+]
+l.454 --- TeX4ht warning --- File `"assets/mobile-design-example.xbb"' not foun
 d ---
-l.443 --- TeX4ht warning --- Cannot determine size of graphic in "assets/mobile
+l.454 --- TeX4ht warning --- Cannot determine size of graphic in "assets/mobile
 -design-example.xbb" (no BoundingBox) ---
-l. 443 --- needs --- assets/mobile-design-example.png ---
-[54
-
-] [55
-
-] [56
-
-]
-l.456 --- TeX4ht warning --- File `"assets/another-design-example.xbb"' not fou
-nd ---
-l.456 --- TeX4ht warning --- Cannot determine size of graphic in "assets/anothe
-r-design-example.xbb" (no BoundingBox) ---
-l. 456 --- needs --- assets/another-design-example.png ---
+l. 454 --- needs --- assets/mobile-design-example.png ---
 [57
 
 ] [58
 
-] [59] [60
+] [59
 
 ]
-l.468 --- TeX4ht warning --- File `"assets/database-diagram-example.xbb"' not f
+l.467 --- TeX4ht warning --- File `"assets/another-design-example.xbb"' not fou
+nd ---
+l.467 --- TeX4ht warning --- Cannot determine size of graphic in "assets/anothe
+r-design-example.xbb" (no BoundingBox) ---
+l. 467 --- needs --- assets/another-design-example.png ---
+[60
+
+] [61
+
+] [62] [63
+
+]
+l.479 --- TeX4ht warning --- File `"assets/database-diagram-example.xbb"' not f
 ound ---
-l.468 --- TeX4ht warning --- Cannot determine size of graphic in "assets/databa
+l.479 --- TeX4ht warning --- Cannot determine size of graphic in "assets/databa
 se-diagram-example.xbb" (no BoundingBox) ---
-l. 468 --- needs --- assets/database-diagram-example.jpg ---
-[61
-
-] [62
-
-] [63
-
-]
-l.477 --- TeX4ht warning --- File `"assets/trello-board-example.xbb"' not found
- ---
-l.477 --- TeX4ht warning --- Cannot determine size of graphic in "assets/trello
--board-example.xbb" (no BoundingBox) ---
-l. 477 --- needs --- assets/trello-board-example.png ---
+l. 479 --- needs --- assets/database-diagram-example.jpg ---
 [64
 
 ] [65
@@ -1150,35 +1156,35 @@ l. 477 --- needs --- assets/trello-board-example.png ---
 ] [66
 
 ]
-l.485 --- TeX4ht warning --- File `"assets/project-timeline-example.xbb"' not f
-ound ---
-l.485 --- TeX4ht warning --- Cannot determine size of graphic in "assets/projec
-t-timeline-example.xbb" (no BoundingBox) ---
-l. 485 --- needs --- assets/project-timeline-example.png ---
+l.496 --- TeX4ht warning --- File `"assets/trello-board-example.xbb"' not found
+ ---
+l.496 --- TeX4ht warning --- Cannot determine size of graphic in "assets/trello
+-board-example.xbb" (no BoundingBox) ---
+l. 496 --- needs --- assets/trello-board-example.png ---
 [67
 
 ] [68
 
-] [69] [70
+] [69
 
 ]
-l.527 --- TeX4ht warning --- File `"assets/trello-task-example.xbb"' not found 
+l.504 --- TeX4ht warning --- File `"assets/project-timeline-example.xbb"' not f
+ound ---
+l.504 --- TeX4ht warning --- Cannot determine size of graphic in "assets/projec
+t-timeline-example.xbb" (no BoundingBox) ---
+l. 504 --- needs --- assets/project-timeline-example.png ---
+[70
+
+] [71
+
+] [72] [73
+
+]
+l.546 --- TeX4ht warning --- File `"assets/trello-task-example.xbb"' not found 
 ---
-l.527 --- TeX4ht warning --- Cannot determine size of graphic in "assets/trello
+l.546 --- TeX4ht warning --- Cannot determine size of graphic in "assets/trello
 -task-example.xbb" (no BoundingBox) ---
-l. 527 --- needs --- assets/trello-task-example.png ---
-[71
-
-] [72
-
-] [73
-
-]
-l.548 --- TeX4ht warning --- File `"assets/github-issue-overview-example.xbb"' 
-not found ---
-l.548 --- TeX4ht warning --- Cannot determine size of graphic in "assets/github
--issue-overview-example.xbb" (no BoundingBox) ---
-l. 548 --- needs --- assets/github-issue-overview-example.png ---
+l. 546 --- needs --- assets/trello-task-example.png ---
 [74
 
 ] [75
@@ -1186,11 +1192,11 @@ l. 548 --- needs --- assets/github-issue-overview-example.png ---
 ] [76
 
 ]
-l.556 --- TeX4ht warning --- File `"assets/github-issue-example.xbb"' not found
- ---
-l.556 --- TeX4ht warning --- Cannot determine size of graphic in "assets/github
--issue-example.xbb" (no BoundingBox) ---
-l. 556 --- needs --- assets/github-issue-example.png ---
+l.570 --- TeX4ht warning --- File `"assets/github-issue-overview-example.xbb"' 
+not found ---
+l.570 --- TeX4ht warning --- Cannot determine size of graphic in "assets/github
+-issue-overview-example.xbb" (no BoundingBox) ---
+l. 570 --- needs --- assets/github-issue-overview-example.png ---
 [77
 
 ] [78
@@ -1198,35 +1204,86 @@ l. 556 --- needs --- assets/github-issue-example.png ---
 ] [79
 
 ]
-l.566 --- TeX4ht warning --- File `"assets/git-graph-example.xbb"' not found --
--
-l.566 --- TeX4ht warning --- Cannot determine size of graphic in "assets/git-gr
-aph-example.xbb" (no BoundingBox) ---
-l. 566 --- needs --- assets/git-graph-example.png ---
+l.578 --- TeX4ht warning --- File `"assets/github-issue-example.xbb"' not found
+ ---
+l.578 --- TeX4ht warning --- Cannot determine size of graphic in "assets/github
+-issue-example.xbb" (no BoundingBox) ---
+l. 578 --- needs --- assets/github-issue-example.png ---
 [80
 
 ] [81
 
-] [82] [83] [84] [85] [86
+] [82
 
 ]
-l.674 --- TeX4ht warning --- File `"assets/KnowledgeBridgeLighthouse.xbb"' not 
+l.593 --- TeX4ht warning --- File `"assets/git-graph-example.xbb"' not found --
+-
+l.593 --- TeX4ht warning --- Cannot determine size of graphic in "assets/git-gr
+aph-example.xbb" (no BoundingBox) ---
+l. 593 --- needs --- assets/git-graph-example.png ---
+[83
+
+] [84
+
+] [85] [86] [87] [88] [89
+
+]
+l.704 --- TeX4ht warning --- File `"assets/KnowledgeBridgeLighthouse.xbb"' not 
 found ---
-l.674 --- TeX4ht warning --- Cannot determine size of graphic in "assets/Knowle
+l.704 --- TeX4ht warning --- Cannot determine size of graphic in "assets/Knowle
 dgeBridgeLighthouse.xbb" (no BoundingBox) ---
-l. 674 --- needs --- assets/KnowledgeBridgeLighthouse.png ---
-[87
+l. 704 --- needs --- assets/KnowledgeBridgeLighthouse.png ---
+[90
 
-] [88
+] [91
 
-] [89] [90] [91] [92] (./main.aux) ) 
+] [92] [93] [94
+
+]
+l.781 --- TeX4ht warning --- File `"assets/carbon.xbb"' not found ---
+l.781 --- TeX4ht warning --- Cannot determine size of graphic in "assets/carbon
+.xbb" (no BoundingBox) ---
+l. 781 --- needs --- assets/carbon.png ---
+[95
+
+] [96
+
+] [97] [98] [99
+
+]
+l.841 --- TeX4ht warning --- File `"assets/backend-uml-example.xbb"' not found 
+---
+l.841 --- TeX4ht warning --- Cannot determine size of graphic in "assets/backen
+d-uml-example.xbb" (no BoundingBox) ---
+l. 841 --- needs --- assets/backend-uml-example.png ---
+[100
+
+] [101
+
+] [102
+
+]
+l.849 --- TeX4ht warning --- File `"assets/KnowledgeBridgePackages.xbb"' not fo
+und ---
+l.849 --- TeX4ht warning --- Cannot determine size of graphic in "assets/Knowle
+dgeBridgePackages.xbb" (no BoundingBox) ---
+l. 849 --- needs --- assets/KnowledgeBridgePackages.png ---
+[103
+
+] [104
+
+] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 20499 strings out of 478288
- 366042 string characters out of 5849315
- 737158 words of memory out of 5000000
- 38186 multiletter control sequences out of 15000+600000
+ 20533 strings out of 478288
+ 366564 string characters out of 5849315
+ 737246 words of memory out of 5000000
+ 38218 multiletter control sequences out of 15000+600000
  475819 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,6n,106p,879b,1507s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,6n,106p,879b,1541s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (94 pages, 116968 bytes).
+Output written on main.dvi (106 pages, 126260 bytes).

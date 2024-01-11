@@ -196,7 +196,7 @@
     \subsection{Brainstorming}
     \begin{figure}[h]
         \centering
-        \includegraphics[width=10cm]{assets/brainstorming-example.png}
+        \includegraphics[width=13cm]{assets/brainstorming-example.png}
         \caption{Example of Figjam brainstorming}
         \label{fig:figjam-brainstorming}
     \end{figure}
@@ -380,6 +380,27 @@
               include separate them by context, style or importance
     \end{itemize}
 
+    Good examples are \autoref{fig:class-diagram} for class diagrams and
+    \autoref{fig:persona-diagram} for persona diagrams. Bad examples are
+    \autoref{fig:backend-uml} for not clear images with black background and
+    \autoref{fig:backend-modules} for too big images with small fonts and complex
+    composition.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=1\linewidth]{assets/class_diagram.png}
+        \caption{Class diagram}
+        \label{fig:class-diagram}
+    \end{figure}
+    \FloatBarrier
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=1\linewidth]{assets/persona-diagram-example.png}
+        \caption{Example Persona diagram}
+        \label{fig:persona-diagram}
+    \end{figure}
+    \FloatBarrier
+
     \begin{figure}[H]
         \centering
         \includegraphics[width=1\linewidth]{assets/backend-uml-example.png}
@@ -394,16 +415,6 @@
         \caption{Diagram of the backend modules}
         \label{fig:backend-modules}
     \end{figure}
-    \FloatBarrier
-
-    \begin{figure}[H]
-        \centering
-        \includegraphics[width=1\linewidth]{assets/persona-diagram-example.png}
-        \caption{Example Persona diagram}
-        \label{fig:persona-diagram}
-    \end{figure}
-
-    You can see the example persona diagram in \autoref{fig:persona-diagram}.
     \FloatBarrier
 
     \newpage
@@ -440,7 +451,7 @@
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.5\linewidth]{assets/mobile-design-example.png}
+        \includegraphics[width=0.6\linewidth]{assets/mobile-design-example.png}
         \caption{Example Mobile Design overview}
     \end{figure}
     \FloatBarrier
@@ -453,7 +464,7 @@
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.5\linewidth]{assets/another-design-example.png}
+        \includegraphics[width=0.6\linewidth]{assets/another-design-example.png}
         \caption{Another Example Design overview}
     \end{figure}
     \FloatBarrier
@@ -472,6 +483,14 @@
     \FloatBarrier
 
     \subsection{Lean Metodology and Sprint Managment with Trello}\label{subseq:lean-and-trello}
+
+    Here you can see an example about the Task and Sprint Managment with
+    \href{https://trello.com/}{Trello}. You may use any other task managing tool,
+    for example \href{https://github.com/features/issues}{GitHub issues} (see
+    specific example belove), \href{https://www.notion.so/}{Notion},
+    \href{https://www.atlassian.com/software/jira}{Jira},
+    \href{https://www.dragapp.com/blog/free-task-management-software/}{etc.}
+
     \begin{figure}[h]
         \centering
         \includegraphics[width=14cm]{assets/trello-board-example.png}
@@ -482,7 +501,7 @@
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.3\linewidth]{assets/project-timeline-example.png}
+        \includegraphics[width=16cm]{assets/project-timeline-example.png}
         \caption{Example Project Timeline}
         \label{fig:project-timeline}
     \end{figure}
@@ -524,13 +543,16 @@
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.3\linewidth]{assets/trello-task-example.png}
+        \includegraphics[width=0.7\linewidth]{assets/trello-task-example.png}
         \caption{Example Trello task}
         \label{fig:trello-task-example}%
     \end{figure}
     \FloatBarrier
 
     \subsection{Task Managment with Github issues}\label{subseq:task-managment-github-issue}
+
+    Here you can see an example about using GitHub issues as a task management
+    tool. You may use other task managing tools.
 
     Task Management with GitHub Issues As previously discussed in
     \autoref{subseq:conventions-sprint-and-task-managment}, task management is
@@ -560,6 +582,11 @@
     \FloatBarrier
 
     \subsection{Version Control with Github}\label{subseq:version-control}
+
+    Here is an example about version controlling with GitHub. Instead of GitHub you
+    can use other version control systems based on
+    \href{https://git-scm.com/}{Git}, \href{https://www.nongnu.org/cvs/}{CVS},
+    \href{https://subversion.apache.org/}{SNV} etc.
 
     \begin{figure}[H]
         \centering
@@ -602,6 +629,9 @@
     maintenance, and ensures a reliable foundation for our development process.
 
     \section{Development Tools}
+
+    Here you talk about the development tools you've used profoundly. See examples
+    belove.
 
     \subsection{Programming Languages and Frameworks}
     % Discuss the programming languages and frameworks used in your project.
@@ -671,7 +701,7 @@
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.5\linewidth]{assets/KnowledgeBridgeLighthouse.png}
+        \includegraphics[width=0.8\linewidth]{assets/KnowledgeBridgeLighthouse.png}
         \caption{Lighthouse}
         \label{fig:lighthouse}
     \end{figure}
@@ -686,6 +716,10 @@
 
     \section{The application in action}
     \subsection{UI - realization}
+
+    Here you talk about the process of making the UI of your project (if you have
+    one). See an example belove.
+
     First we created a wire-frame in FigJam, then based on that we created the
     mock-up of the said design. We kept in mind that the users that are going to
     use this page might get frustrated seeing an over complicated website or one
@@ -731,11 +765,32 @@
     for the students, then it must not have been that much easier for the teachers
     either.
 
+    \subsection{Code - realization}
+
+    In this section you talk about the structure of your code, how you've
+    implemented the functionalities, etc. You can group by frontend, backend etc.
+    functionalities. You may also add screenshots about the code using code
+    beautifying tools like \href{https://codeimage.dev/}{CodeImage},
+    \href{https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot}{Code
+        Snapshot}, \href{https://snappify.com/}{snappify},
+    \href{https://carbon.now.sh/}{carbon} see \autoref{fig:carbon} for an example,
+    \href{https://vigowebs.medium.com/awesome-5-tools-to-create-beautiful-images-of-your-code-snippets-2c2df02c6ae2}{etc.}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.9\linewidth]{assets/carbon.png}
+        \caption{carbon}
+        \label{fig:carbon}
+    \end{figure}
+    \FloatBarrier
+
     \section{Summary}
 
     \textbf{Note:} documentation is not only for the readers it's also for you, so when time
     passes and you don't know something you just have to hit this up and see the
     details.
+
+    Here you summarize the project and the progress of the project creation.
 
     \subsection{Future improvements}
     Although we had high hopes when starting this project things do not always go
@@ -777,6 +832,25 @@
                   \item Having social media accounts would be also great for marketing and interaction.
               \end{itemize}
     \end{itemize}
+
+    \section{Appendix}
+    Here you add the appendixes of your documentation, such as big images, long
+    code snippets, etc.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=1\linewidth]{assets/backend-uml-example.png}
+        \caption{Example UML diagram of the backend}
+        \label{fig:backend-uml}
+    \end{figure}
+    \FloatBarrier
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=1\linewidth]{assets/KnowledgeBridgePackages.png}
+        \caption{Diagram of the backend modules}
+        \label{fig:backend-modules}
+    \end{figure}
+    \FloatBarrier
 
     %\bibliographystyle{alphabetic}
     %\bibliography{example}
